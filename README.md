@@ -1,8 +1,8 @@
 # 🏄‍♂️ Ali AwadAlkarim
 
 **`Software Architect wannabe (Developer/Ex. Petrophysicist)`**
-[![Linkedin: Ali AwadAlkarim](https://img.shields.io/badge/-mohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vardevvas/)](https://www.linkedin.com/in/vardevvas/)
-[![GitHub Sherlocked1](https://img.shields.io/github/followers/vardevvas?label=follow&style=social)](https://github.com/vardevvas)
+[![Linkedin: Ali AwadAlkarim](https://img.shields.io/badge/-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vardevvas/)](https://www.linkedin.com/in/vardevvas/)
+[![GitHub Ali AwadAlkarim](https://img.shields.io/github/followers/vardevvas?label=follow&style=social)](https://github.com/vardevvas)
 
 From a young age, my fascination with the intricate world of technology, encompassing both hardware and software, has been a driving force in my life. Through the years, I've cultivated a natural affinity for navigating the intricate web of tech-related concepts, owing to my unique approach of embracing a developer's mindset.
 
