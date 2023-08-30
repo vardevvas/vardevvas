@@ -1,6 +1,7 @@
 # 🏄‍♂️ Ali AwadAlkarim
 
 **`Software Architect wannabe (Developer/Ex. Petrophysicist)`**
+
 [![Linkedin: Ali AwadAlkarim](https://img.shields.io/badge/-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vardevvas/)](https://www.linkedin.com/in/vardevvas/)
 [![GitHub Ali AwadAlkarim](https://img.shields.io/github/followers/vardevvas?label=follow&style=social)](https://github.com/vardevvas)
 
