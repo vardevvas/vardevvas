@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ali AwadAlkarim
 
-\*\*`Software Architect wannabe (Developer/Ex. Petrophysicist)` <div id="badges" align="center">
+\*\*`Software Architect wannabe (Developer/Ex. Petrophysicist)` <div id="badges">
 <a href="https://www.linkedin.com/in/vardevvas/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
