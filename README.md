@@ -32,7 +32,6 @@ With an unquenchable thirst for knowledge and a proven track record of dedicatio
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vardevvas&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardevvas&size_weight=0.5&count_weight=0.5)
 
 #
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardevvas&size_weight=0.5&count_weight=0.5)
