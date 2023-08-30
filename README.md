@@ -11,19 +11,15 @@ With an unquenchable thirst for knowledge and a proven track record of dedicatio
 ---
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mohamed-taj-eldin-b510791bb/">
+  <a href="https://www.linkedin.com/in/vardevvas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
   <a href="https://twitter.com/OX_SAMA">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vardevvas&style=flat-square&color=red" alt=""/>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OxSama&style=flat-square&color=red" alt=""/>
 </div>
 
 ### 🧰 Languages and Tools
