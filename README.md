@@ -14,12 +14,9 @@ With an unquenchable thirst for knowledge and a proven track record of dedicatio
   <a href="https://www.linkedin.com/in/vardevvas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/OX_SAMA">
+  <a href="https://twitter.com/vardevvas">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vardevvas&style=flat-square&color=red" alt=""/>
-</div>
 </div>
 
 ### 🧰 Languages and Tools
