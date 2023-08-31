@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ali AwadAlkarim
 
-**`Software Architect wannabe (Developer/Ex. Petrophysicist)`**
+**`Software Architect wannabe (Software Developer)`**
 
 [![Linkedin: Ali AwadAlkarim](https://img.shields.io/badge/-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vardevvas/)](https://www.linkedin.com/in/vardevvas/)
 [![GitHub Ali AwadAlkarim](https://img.shields.io/github/followers/vardevvas?label=follow&style=social)](https://github.com/vardevvas)
@@ -26,6 +26,9 @@ With an unquenchable thirst for knowledge and a proven track record of dedicatio
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="xCode" title="xCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+<img align="left" alt="intellij" title="intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" alt="vscode" title="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />
 <br />
 
 #
